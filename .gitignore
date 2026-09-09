@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+!.env.example
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+credentials.json
+*.pfx
+*.pem
+*.key
+node_modules/
+bin/
+obj/
+dist/
+build/
+uploads/
+*.log
